@@ -15,9 +15,3 @@ This project demonstrates a federated learning system for predicting heart disea
 - Scikit-learn: Data preprocessing
 - Pandas: Data manipulation
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ay0788/federated-heart-disease
-   cd federated-heart-disease
